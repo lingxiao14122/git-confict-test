@@ -1,4 +1,4 @@
-console.log("hello");
+console.log("venus");
 console.log("hello");
 console.log("hello world");
 // define
