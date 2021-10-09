@@ -1,9 +1,9 @@
 console.log("hello");
 console.log("hello");
-console.log("hello world");
+console.log("hello");
 // define
-console.log("hello cheese");
-console.log("hello world");
+console.log("hello");
+console.log("hello");
 //next
 //next-too
 console.log("banana");
