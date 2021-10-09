@@ -1,9 +1,9 @@
-console.log("venus");
+console.log("mami noodle");
 console.log("hello");
-console.log("hello world");
+console.log("hello");
 // define
-console.log("hello cheese");
-console.log("hello world");
+console.log("hello");
+console.log("chicken");
 //next
 //next-too
-console.log("pluto");
+console.log("banana");
